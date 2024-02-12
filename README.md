@@ -39,3 +39,15 @@ Esse repositório tem como objetivo descrever um pouco da aplicação a que ele 
 </ul>
 
 ![alt text](image.png)
+
+<hr/>
+<h3>Orientações para Pull Request</h3>
+<ul>
+<li> Criar nova branch a partir da Master
+<li> Pull Requests
+    <ul>
+    <li> branch feature/_nome_da_funcionalidade --> branch Dev
+    <li> branch Dev --> branch Qa
+    <li> branch Qa  --> branch Uat
+    <li> branch uat --> Main
+</ul>
